@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+Answer to question: Create a Flutter app with a sign-up screen [Choose your own  design and colors]. At the top of the screen display a logo and a  welcome message. In this screen, the user can enter full-name,  email, and password, in addition to selecting her gender using  DropdownButton widgets. When the data is entered, the signup  button at the bottom of the screen will change its color and become  click-able. Upon clicking, show a snackbar with a success  message. 
+
+Bonus feature: 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
